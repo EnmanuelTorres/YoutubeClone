@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="21507" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="WTa-W9-aVN">
+    <device id="retina6_0" orientation="portrait" appearance="dark"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="21505"/>
+        <capability name="Named colors" minToolsVersion="9.0"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--Main View Controller-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController storyboardIdentifier="MainViewController" id="BYZ-38-t0r" customClass="MainViewController" customModule="YouTubeClone" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="390" height="844"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="PoB-Ez-5w2" userLabel="Tabs View" customClass="TabsView" customModule="YouTubeClone" customModuleProvider="target">
+                                <rect key="frame" x="0.0" y="91" width="390" height="45"/>
+                                <color key="backgroundColor" name="blackgroundColor"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="45" id="jRq-eD-eRj"/>
+                                </constraints>
+                            </view>
+                            <containerView opaque="NO" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="sA9-Ql-6m6">
+                                <rect key="frame" x="0.0" y="136" width="390" height="674"/>
+                                <connections>
+                                    <segue destination="Hod-nJ-3fc" kind="embed" id="1y2-r8-vy7"/>
+                                </connections>
+                            </containerView>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
+                        <color key="backgroundColor" name="blackgroundColor"/>
+                        <constraints>
+                            <constraint firstItem="PoB-Ez-5w2" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="35C-t7-baf"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="sA9-Ql-6m6" secondAttribute="trailing" id="3KB-3c-Vz3"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="top" secondItem="PoB-Ez-5w2" secondAttribute="top" id="Q8E-zR-gZ8"/>
+                            <constraint firstItem="sA9-Ql-6m6" firstAttribute="top" secondItem="PoB-Ez-5w2" secondAttribute="bottom" id="QsP-gt-2rj"/>
+                            <constraint firstItem="sA9-Ql-6m6" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="TJJ-pc-e8j"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="sA9-Ql-6m6" secondAttribute="bottom" id="pjt-fJ-uZ7"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="PoB-Ez-5w2" secondAttribute="trailing" id="y9Q-JX-Xvl"/>
+                        </constraints>
+                    </view>
+                    <navigationItem key="navigationItem" id="3sa-av-hjC"/>
+                    <connections>
+                        <outlet property="TabsView" destination="PoB-Ez-5w2" id="Fdh-Fy-o6o"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="963.07692307692309" y="93.838862559241704"/>
+        </scene>
+        <!--Root Page View Controller-->
+        <scene sceneID="3Nf-Sv-b1p">
+            <objects>
+                <pageViewController transitionStyle="scroll" navigationOrientation="horizontal" spineLocation="none" id="Hod-nJ-3fc" customClass="RootPageViewController" customModule="YouTubeClone" customModuleProvider="target" sceneMemberID="viewController"/>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="0BJ-Pu-PYn" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1818.4615384615383" y="102.3696682464455"/>
+        </scene>
+        <!--Navigation Controller-->
+        <scene sceneID="Oem-1u-5Bt">
+            <objects>
+                <navigationController automaticallyAdjustsScrollViewInsets="NO" id="WTa-W9-aVN" sceneMemberID="viewController">
+                    <toolbarItems/>
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" id="SFQ-yN-0Zv">
+                        <rect key="frame" x="0.0" y="47" width="390" height="44"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                    </navigationBar>
+                    <nil name="viewControllers"/>
+                    <connections>
+                        <segue destination="BYZ-38-t0r" kind="relationship" relationship="rootViewController" id="XPS-I2-uBG"/>
+                    </connections>
+                </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="qji-uQ-OGX" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="33.846153846153847" y="93.838862559241704"/>
+        </scene>
+    </scenes>
+    <resources>
+        <namedColor name="blackgroundColor">
+            <color red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </namedColor>
+    </resources>
+</document>

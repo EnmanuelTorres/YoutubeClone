@@ -1,0 +1,116 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "zdTzS7xokVfXppJYeLKLz-AsIYw",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "zScW4mr2-ropOIG7k9mWxabsbzI",
+            "id": "v1mWkw7Lito",
+            "snippet": {
+                "publishedAt": "2022-03-05T05:00:19Z",
+                "channelId": "UC_I_lCplbwIf60iUgsTE79g",
+                "title": "1- Curso de Swift iOS 15 desde CERO - Xcode 13 - 2022",
+                "description": "CLONANDO YOUTUBE *Curso de Swift* iOS 15 desde CERO Español 2022. Inroducción y Demo.\nEste es el primer video de una serie completa donde te explico paso a paso como crear una elegante App *YouTube* utilizando Swift UIKit, este curso está dirigido a cualquier persona, tenga o no un buen nivel desarrollando aplicaciones iOS. \n\nEn esta serie de videos te enseño cómo *crear app en swift desde cero*. Para su creación debes tener Xcode 13 instalado, ya que estaremos utilizando varios features de iOS15. Este CURSO DE SWIFT  está dirigido tanto a personas que ya tienen experiencia, como a principiantes en swift que a penas comienzan su carrera. Espero te sirva de mucho, házmelo saber en los comentarios.\n\nSi estás buscando un curso paso a paso de cómo crear una aplicación iOS con swift, este es curso definitivo que te enseñará a crear una aplicación de calidad y bajo estándares muy altos de calidad de código. \n\nPlaylist del Curso Completo:\nhttps://bit.ly/3IxWs2g\n\nRepositorio Github:\nhttps://bit.ly/3vpd6gy\n\nSUSCRIBETE AL CANAL\nhttps://bit.ly/3n6ttur\n\n-- Timestamps --\n00:00 Introducción\n00:21 Contenido de toda la aplicación\n03:04 Demo Clone YouTube\n07:23 Resumen\n\nTwitter: \nhttps://twitter.com/VictorRoldanDev\n\nCorreo de contacto:\nvictorroldan.dev@gmail.com\n\n#iOSDevelopment #CursoSwiftGratis #CloneYouTubeSwift #iOSProgramming #Swift #VictorRoldanDev #Xcode #AprenderSwift, #DesarrolladoriOS",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/v1mWkw7Lito/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/v1mWkw7Lito/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/v1mWkw7Lito/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/v1mWkw7Lito/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/v1mWkw7Lito/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Victor Roldan Dev",
+                "tags": [
+                    "curso swift ios 15 español 2022",
+                    "curso de swift desde cero",
+                    "tutorial swift",
+                    "curso de swift",
+                    "tutorial swift 5",
+                    "swift",
+                    "curso swift",
+                    "curso swift ios15",
+                    "como crear una app",
+                    "xcode",
+                    "crear app con xcode",
+                    "xcode 13 español",
+                    "como hacer una app",
+                    "crear app ios",
+                    "ios app desde cero",
+                    "xcode 13",
+                    "ios15",
+                    "tutoriales de programacion swift",
+                    "curso swift español",
+                    "swift 5 en español",
+                    "Curso de Swift iOS 15 desde CERO",
+                    "como programar en swift",
+                    "curso swift 2022",
+                    "curso swift principiante",
+                    "Cursoswift"
+                ],
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "1- Curso de Swift iOS 15 desde CERO - Xcode 13 - 2022",
+                    "description": "CLONANDO YOUTUBE *Curso de Swift* iOS 15 desde CERO Español 2022. Inroducción y Demo.\nEste es el primer video de una serie completa donde te explico paso a paso como crear una elegante App *YouTube* utilizando Swift UIKit, este curso está dirigido a cualquier persona, tenga o no un buen nivel desarrollando aplicaciones iOS. \n\nEn esta serie de videos te enseño cómo *crear app en swift desde cero*. Para su creación debes tener Xcode 13 instalado, ya que estaremos utilizando varios features de iOS15. Este CURSO DE SWIFT  está dirigido tanto a personas que ya tienen experiencia, como a principiantes en swift que a penas comienzan su carrera. Espero te sirva de mucho, házmelo saber en los comentarios.\n\nSi estás buscando un curso paso a paso de cómo crear una aplicación iOS con swift, este es curso definitivo que te enseñará a crear una aplicación de calidad y bajo estándares muy altos de calidad de código. \n\nPlaylist del Curso Completo:\nhttps://bit.ly/3IxWs2g\n\nRepositorio Github:\nhttps://bit.ly/3vpd6gy\n\nSUSCRIBETE AL CANAL\nhttps://bit.ly/3n6ttur\n\n-- Timestamps --\n00:00 Introducción\n00:21 Contenido de toda la aplicación\n03:04 Demo Clone YouTube\n07:23 Resumen\n\nTwitter: \nhttps://twitter.com/VictorRoldanDev\n\nCorreo de contacto:\nvictorroldan.dev@gmail.com\n\n#iOSDevelopment #CursoSwiftGratis #CloneYouTubeSwift #iOSProgramming #Swift #VictorRoldanDev #Xcode #AprenderSwift, #DesarrolladoriOS"
+                },
+                "defaultAudioLanguage": "es-419"
+            },
+            "contentDetails": {
+                "duration": "PT8M29S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "status": {
+                "uploadStatus": "processed",
+                "privacyStatus": "public",
+                "license": "youtube",
+                "embeddable": true,
+                "publicStatsViewable": true,
+                "madeForKids": false
+            },
+            "statistics": {
+                "viewCount": "349",
+                "likeCount": "32",
+                "favoriteCount": "0",
+                "commentCount": "5"
+            },
+            "player": {
+                "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/v1mWkw7Lito\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Knowledge"
+                ]
+            },
+            "recordingDetails": {}
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}
+

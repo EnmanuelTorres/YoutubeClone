@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "6A701E5B-600A-42D2-A012-9999C9A9206A"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6CDF9D53-5AAB-42D0-98C4-D52C62D96B85"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YouTubeClone/Model/VideoModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "VideoModel"
+            landmarkType = "14">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A30AAB78-9317-45DA-953A-2F66CBD7A76C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YouTubeClone/PlayVideo/View/PlayVideoViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "112"
+            endingLineNumber = "112"
+            landmarkName = "getRelatedVideosFinished()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7382E693-DC79-496F-876D-6ECD0AE2BCE7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YouTubeClone/PlayVideo/View/PlayVideoViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "111"
+            endingLineNumber = "111"
+            landmarkName = "getRelatedVideosFinished()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "37AAE3AE-10CE-4DCD-A6A2-738C22866026"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YouTubeClone/PlayVideo/View/PlayVideoViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "PlayVideoViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "37AAE3AE-10CE-4DCD-A6A2-738C22866026 - d0809eeec4f20efc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "YouTubeClone.PlayVideoViewController.videoId.getter : Swift.String"
+                  moduleName = "YouTubeClone"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/enmanueltorres/Documents/Programacion/Enmanuel%20Torres/miapp/YouTubeClone/YouTubeClone/PlayVideo/View/PlayVideoViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "100">
+               </Location>
+               <Location
+                  uuid = "37AAE3AE-10CE-4DCD-A6A2-738C22866026 - fe874e06200fdeb8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "YouTubeClone.PlayVideoViewController.videoId.setter : Swift.String"
+                  moduleName = "YouTubeClone"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/enmanueltorres/Documents/Programacion/Enmanuel%20Torres/miapp/YouTubeClone/YouTubeClone/PlayVideo/View/PlayVideoViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "140">
+               </Location>
+               <Location
+                  uuid = "37AAE3AE-10CE-4DCD-A6A2-738C22866026 - 1a03c77daa466aef"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "YouTubeClone.PlayVideoViewController.videoId.modify : Swift.String"
+                  moduleName = "YouTubeClone"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/enmanueltorres/Documents/Programacion/Enmanuel%20Torres/miapp/YouTubeClone/YouTubeClone/PlayVideo/View/PlayVideoViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "37AAE3AE-10CE-4DCD-A6A2-738C22866026 - fd963096fa7e60a7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "YouTubeClone.PlayVideoViewController.videoId.modify : Swift.String with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "YouTubeClone"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/enmanueltorres/Documents/Programacion/Enmanuel%20Torres/miapp/YouTubeClone/YouTubeClone/PlayVideo/View/PlayVideoViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "37AAE3AE-10CE-4DCD-A6A2-738C22866026 - ecaf627e951c74b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "YouTubeClone.PlayVideoViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; YouTubeClone.PlayVideoViewController"
+                  moduleName = "YouTubeClone"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/enmanueltorres/Documents/Programacion/Enmanuel%20Torres/miapp/YouTubeClone/YouTubeClone/PlayVideo/View/PlayVideoViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "216">
+               </Location>
+               <Location
+                  uuid = "37AAE3AE-10CE-4DCD-A6A2-738C22866026 - 60d4d27ae825ecbd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "YouTubeClone.PlayVideoViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;YouTubeClone.PlayVideoViewController&gt;"
+                  moduleName = "YouTubeClone"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/enmanueltorres/Documents/Programacion/Enmanuel%20Torres/miapp/YouTubeClone/YouTubeClone/PlayVideo/View/PlayVideoViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "192">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.ExceptionBreakpoint">
+         <BreakpointContent
+            uuid = "F0E770CC-D6EB-4EDC-B0DA-8766AB926A4D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            breakpointStackSelectionBehavior = "1"
+            scope = "1"
+            stopOnStyle = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
