@@ -17,20 +17,16 @@ class VideoFullWidthCell: UITableViewCell {
     
     override func awakeFromNib() {
         super.awakeFromNib()
-        // Initialization code
+        
     }
 
-    func configCell (model : VideoModel.Item, channelModel : ChannelModel.Items?){
+    func configCell (model : VideoModel.Item ){
         
         videoTittle.text = model.snippet?.title
         videoTittle.textColor = UIColor (named: "whiteColor")
         
         imageProfile.layer.cornerRadius = 40/2
         
-        if let ImageProfil = model.snippet?.thumbnails.medium?.url, let url = URL(string: ImageProfil){
-            imageProfile.kf.setImage(with: url)
-        }
-     
         
         let channelTitle = model.snippet?.channelTitle ?? ""
         //let pusblished = model.snippet?.publishedDateFriendly ?? ""

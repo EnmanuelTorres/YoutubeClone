@@ -224,7 +224,7 @@ extension  PlayVideoViewController: UITableViewDelegate, UITableViewDataSource{
             
             let videoFullWidthCell = tableView.dequeueReusableCell(for: VideoFullWidthCell.self, for: indexPath)
            
-            videoFullWidthCell.configCell(model: video, channelModel: presenter.channelModel)
+            videoFullWidthCell.configCell(model: video)
             return videoFullWidthCell
                 
                 
