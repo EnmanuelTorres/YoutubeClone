@@ -6,15 +6,15 @@ You can pause the videos, and replay them. You can choose if you want to watch t
 
 ## Features
 - Select and watch a video.
-- Full screen mode.
+- Full-screen mode.
 - Watch the video on the top.
-- Watch the video on the bottom.
+- Watch the video at the bottom.
 - Pause and replay the video.
 - See channel information.
 - Dark Mode Support.
 
 ## Content
-![youtubeClone](https://user-images.githubusercontent.com/106885120/222921393-a21539b0-8ef0-453f-9f2e-80d6967106a4.jpeg)
+![youtubeClone](https://github.com/EnmanuelTorres/Thoughts/assets/106885120/cfe94852-e2d9-41fa-96e3-b965e9d235b7)
 
 DEMO 1 | DEMO 2 |
 -------|--------|
